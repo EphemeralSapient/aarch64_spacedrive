@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Office;
+Comment=Spacedrive
+Exec=sd-desktop
+Icon=sd-desktop
+Name=Spacedrive
+Terminal=false
+Type=Application

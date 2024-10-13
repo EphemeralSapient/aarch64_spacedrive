@@ -1,0 +1,9 @@
+Package: spacedrive
+Version: 0.4.2
+Architecture: arm64
+Installed-Size: 229704
+Maintainer: Spacedrive Technology Inc <support@spacedrive.com>
+Priority: optional
+Depends: libc6, libxdo3, dbus, libwebkit2gtk-4.1-0, libgtk-3-0
+Description: Spacedrive
+ Cross-platform universal file explorer, powered by an open-source virtual distributed filesystem.
